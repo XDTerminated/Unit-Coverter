@@ -1,2 +1,4 @@
 # Unit-Coverter
-A unit coverter to convert between different measurements. Eg. Miles to Km
+Uses Tkinter in python to create a GUI that allows the user to convert between different measurement units.
+
+For example, the user could choose to convert from Miles to Kilometers.
